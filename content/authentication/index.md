@@ -25,7 +25,7 @@ topics:
   - Usernames
   - Device verification
 children:
-  - /keeping-your-account-and-data-secure
+  - /keeping-your-accountant -and-data-secure
   - /securing-your-account-with-two-factor-authentication-2fa
   - /authenticating-with-saml-single-sign-on
   - /connecting-to-github-with-ssh
